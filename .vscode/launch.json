@@ -8,7 +8,7 @@
             "name": "Python: scrapping",
             "type": "python",
             "request": "launch",
-            "program": "C:/GitHub/project-web-scrapping/scraping.py",
+            "module": "scraping",
             "console": "integratedTerminal",
             "justMyCode": true
         }
